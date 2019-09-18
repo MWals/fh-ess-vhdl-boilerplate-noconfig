@@ -4,10 +4,10 @@ Boilerplate for Modelsim and Questasim projects without config files for the mas
 ## Usage
 Fork or clone project, change filenames, change files, then run the scripts
 
-'''
+```
 vlib work
 do compile.do
 do sim.do
-'''
+```
 
 
